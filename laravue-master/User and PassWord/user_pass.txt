@@ -1,0 +1,2 @@
+user:admin@laravue.dev
+pass:laravue
