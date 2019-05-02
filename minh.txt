@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 minhdepzai
 aaaaaaaaaaaa
+=======
+>>>>>>> parent of 9046277... thu commit lan dau
